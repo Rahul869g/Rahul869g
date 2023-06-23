@@ -66,7 +66,7 @@
     <img height="140" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul869g&layout=compact&langs_count=8" alt="Top Languages" />
   </a>
   <a href="https://github.com/Rahul869g">
-    <img height="160" width="320" src="https://github-readme-stats.vercel.app/api?username=Rahul869g&show_icons=true&count_private=true" alt="GitHub Stats" />
+    <img height="140" width="320" src="https://github-readme-stats.vercel.app/api?username=Rahul869g&show_icons=true&count_private=true" alt="GitHub Stats" />
   </a>
 </div>
 
