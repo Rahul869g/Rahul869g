@@ -61,17 +61,13 @@
 
 ## GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/Rahul869g">
-    <img height="140" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul869g&layout=compact&langs_count=8" alt="Top Languages" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Rahul869g">
-    <img height="150" width="320" src="https://github-readme-stats.vercel.app/api?username=Rahul869g&show_icons=true&count_private=true" alt="GitHub Stats" />
-  </a>
-</div>
+| <a href="https://github.com/Rahul869g/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahul869g&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
+</a> |
+<a href="https://github.com/Rahul869g/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul869g&layout=compact&theme=buefy&hide_border=true" />
+</a> |
+| ------------- | ------------- |
 
 <div align="center">
   <a href="https://github.com/Rahul869g">
