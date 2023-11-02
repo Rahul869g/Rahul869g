@@ -59,7 +59,7 @@
 [![ChartJs](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/)
 
-## GitHub Stats
+## 📶 GitHub Stats
 
 | <a href="https://github.com/Rahul869g/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahul869g&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Rahul869g/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul869g&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -69,6 +69,15 @@
   <a href="https://github.com/Rahul869g">
     <img height="150" width="320" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul869g" alt="GitHub Streak" />
   </a>
+</div>
+
+## ⚙️ GitHub historic
+
+<div align="center">
+   
+<!--- Snake animation analytics to github --->
+ ![Snake animation](https://github.com/Rahul869g/Rahul869g/blob/output/github-snake-dark.svg)
+   
 </div>
 
 ## 🏆 Trophies:
