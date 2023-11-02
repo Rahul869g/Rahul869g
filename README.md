@@ -76,7 +76,7 @@
 <div align="center">
    
 <!--- Snake animation analytics to github --->
- ![Snake animation](https://github.com/Rahul869g/Rahul869g/blob/output/github-snake-dark.svg)
+ ![Snake animation](https://github.com/Rahul869g/Rahul869g/blob/output/github-contribution-grid-snake.svg)
    
 </div>
 
